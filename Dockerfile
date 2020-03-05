@@ -3,7 +3,7 @@
 # to jump in final container: docker run -it myapp /bin/bash/
 # to loginto inside final container: docker run -it myapp /bin/bash/
 # to run image: docker run -p 8080:8080 greeting-svc
-# to view deployment http://localhost:8080/greeting?name=Raj
+# to view deployment http://localhost:8080/greeting?name=Jai
 
 FROM amazoncorretto:8
 
